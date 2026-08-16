@@ -1,0 +1,10 @@
+========== INPUT EDA REPORT ==========
+Contest: CUMCM 2024 A - Bench Dragon
+Observation files: 0 (no data attachment supplied)
+Missing result templates: result1.xlsx, result2.xlsx, result4.xlsx
+Bench count check: PASS
+Handle spacing check: PASS
+Initial radius check: 8.800000 m
+Missing/outlier statistics: N/A (no observations)
+Figure: latex/images/fig00_input_geometry.png
+=======================================

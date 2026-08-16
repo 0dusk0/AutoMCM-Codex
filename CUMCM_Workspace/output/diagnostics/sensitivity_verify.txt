@@ -1,0 +1,11 @@
+﻿========== VERIFICATION REPORT ==========
+Stage  : sensitivity_analysis
+Result : PASS
+Checks :
+  [V-SEN-1] PASS  factors=[0.8, 0.9, 1.0, 1.1, 1.2]
+  [V-SEN-2] PASS  all sensitivity values finite
+  [V-SEN-3] PASS  max spacing residual=1.207e-10 m
+  [V-SEN-4] PASS  tail radius increases with pitch in tested range
+  [V-SEN-5] PASS  base tail speed agrees with model-1 audit
+  [V-SEN-6] PASS  figure and JSON audit exist
+==========================================

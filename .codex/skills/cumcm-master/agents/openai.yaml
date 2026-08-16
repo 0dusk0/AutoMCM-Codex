@@ -1,0 +1,4 @@
+interface:
+  display_name: "CUMCM Master"
+  short_description: "Codex 国赛建模、验证与中文 LaTeX 论文"
+  default_prompt: "Use $cumcm-master to solve a CUMCM problem with reproducible code, verification, and a Chinese LaTeX paper."

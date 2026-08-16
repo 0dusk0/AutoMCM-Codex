@@ -1,0 +1,20 @@
+{
+  "factors": [
+    0.8,
+    0.9,
+    1.0,
+    1.1,
+    1.2
+  ],
+  "base_case": {
+    "pitch_factor": 1.0,
+    "pitch_m": 0.55,
+    "max_trailing_handle_speed_mps": 0.9999710382841089,
+    "tail_radius_at_300s_m": 9.470902486018838,
+    "tail_speed_at_300s_mps": 0.9964775397663793,
+    "max_spacing_residual_m": 4.673994524750924e-11
+  },
+  "max_spacing_residual_m": 1.2070522359408642e-10,
+  "figure": "C:\\Users\\wyh43\\Documents\\Codex\\2026-08-16\\https-github-com-realseaberry-automcm-pro\\work\\AutoMCM-Pro\\CUMCM_Workspace\\latex\\images\\fig_sensitivity_pitch.png",
+  "csv": "C:\\Users\\wyh43\\Documents\\Codex\\2026-08-16\\https-github-com-realseaberry-automcm-pro\\work\\AutoMCM-Pro\\CUMCM_Workspace\\output\\sensitivity_pitch.csv"
+}

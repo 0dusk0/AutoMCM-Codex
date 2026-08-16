@@ -1,0 +1,4 @@
+interface:
+  display_name: "AutoMCM-Pro"
+  short_description: "使用 Codex 完成数学建模流水线、验证、自评和论文生成"
+  default_prompt: "Use $auto-mcm to run an AP or MANUAL mathematical-modeling pipeline from a problem file to a verified LaTeX paper."

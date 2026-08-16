@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCM/ICM Master"
+  short_description: "Codex 美赛建模、验证与英文 LaTeX 论文"
+  default_prompt: "Use $mcm-master to solve an MCM/ICM problem with verified models, an English paper, and any required memo."

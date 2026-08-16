@@ -1,0 +1,11 @@
+﻿========== VERIFICATION REPORT ==========
+Stage  : model_1_verify
+Result : PASS
+Checks :
+  [V-KIN-1] PASS  columns=8, rows=67424 expected=67424
+  [V-KIN-2] PASS  all numeric output values are finite
+  [V-KIN-3] PASS  max chord residual=1.259e-10 m
+  [V-KIN-4] PASS  head speed max error=2.220e-16 m/s
+  [V-KIN-5] PASS  selected rows=42 expected=42
+  [V-KIN-6] PASS  recomputed sample max error=5.329e-15
+==========================================

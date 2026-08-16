@@ -1,0 +1,42 @@
+{
+  "parameters": {
+    "contest": "CUMCM 2024 A - Bench Dragon",
+    "bench_count": 223,
+    "head_bench_count": 1,
+    "body_bench_count": 221,
+    "tail_bench_count": 1,
+    "bench_width_m": 0.3,
+    "head_length_m": 3.41,
+    "body_tail_length_m": 2.2,
+    "hole_diameter_m": 0.055,
+    "hole_to_nearest_end_m": 0.275,
+    "pitch_problem_1_2_m": 0.55,
+    "head_speed_problem_1_mps": 1.0,
+    "turning_diameter_m": 9.0,
+    "pitch_problem_4_m": 1.7,
+    "head_handle_spacing_m": 2.86,
+    "body_handle_spacing_m": 1.65,
+    "turning_radius_m": 4.5,
+    "spiral_a_problem_1_2_m_per_rad": 0.08753521870054244,
+    "initial_turn_number": 16,
+    "initial_radius_problem_1_2_m": 8.8
+  },
+  "asset_audit": {
+    "data_files": [],
+    "missing_result_templates": [
+      "result1.xlsx",
+      "result2.xlsx",
+      "result4.xlsx"
+    ],
+    "observation_count": 0,
+    "missing_value_count": null,
+    "outlier_count": null,
+    "quality_note": "No measurement/data attachment was supplied; parameters are deterministic problem inputs.",
+    "checks": {
+      "bench_count_consistent": true,
+      "head_handle_spacing_consistent": true,
+      "body_handle_spacing_consistent": true,
+      "no_observation_files": true
+    }
+  }
+}

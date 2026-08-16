@@ -1,0 +1,8 @@
+﻿========== MODEL 1 BUILD REPORT ==========
+Stage  : model_1_build
+Result : PASS
+Rows   : 67424 (301 times x 224 handles)
+Max spacing residual (m): 1.259e-10
+Speed range (m/s): [0.996478, 1.000000]
+Workbook: C:\Users\wyh43\Documents\Codex\2026-08-16\https-github-com-realseaberry-automcm-pro\work\AutoMCM-Pro\CUMCM_Workspace\output\result1.xlsx
+===========================================

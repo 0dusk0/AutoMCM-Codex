@@ -1,0 +1,4 @@
+interface:
+  display_name: "AutoMCM Draw Image"
+  short_description: "使用 Codex 为建模论文生成非数值流程图、架构图与概念插图"
+  default_prompt: "Use $draw-image to create a non-data academic flowchart or conceptual illustration for an AutoMCM paper."

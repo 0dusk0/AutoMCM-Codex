@@ -1,0 +1,14 @@
+﻿Could not save font_manager cache [Errno 13] Permission denied: 'C:\\Users\\wyh43\\.matplotlib\\fontlist-v3.11.0.json.matplotlib-lock'
+========== SENSITIVITY REPORT ==========
+Stage  : sensitivity_analysis
+Result : PASS
+ pitch_factor    pitch_m  max_trailing_handle_speed_mps  tail_radius_at_300s_m  tail_speed_at_300s_mps  max_spacing_residual_m
+   0.80000000 0.44000000                     0.99994275             7.71350227              0.98435222              0.00000000
+   0.90000000 0.49500000                     0.99996007             8.59118856              0.99361429              0.00000000
+   1.00000000 0.55000000                     0.99997104             9.47090249              0.99647754              0.00000000
+   1.10000000 0.60500000                     0.99997832            10.35125009              0.99778181              0.00000000
+   1.20000000 0.66000000                     0.99998334            11.23182934              0.99849001              0.00000000
+Max spacing residual (m): 1.207e-10
+CSV: C:\Users\wyh43\Documents\Codex\2026-08-16\https-github-com-realseaberry-automcm-pro\work\AutoMCM-Pro\CUMCM_Workspace\output\sensitivity_pitch.csv
+Figure: C:\Users\wyh43\Documents\Codex\2026-08-16\https-github-com-realseaberry-automcm-pro\work\AutoMCM-Pro\CUMCM_Workspace\latex\images\fig_sensitivity_pitch.png
+=========================================

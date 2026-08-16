@@ -1,0 +1,9 @@
+{
+  "time_rows": 301,
+  "handles_per_time": 224,
+  "long_rows": 67424,
+  "max_handle_spacing_abs_error_m": 1.2591327980260303e-10,
+  "min_handle_speed_mps": 0.9964775397663793,
+  "max_handle_speed_mps": 1.0000000000000002,
+  "head_speed_mps": 1.0
+}
